@@ -1,6 +1,6 @@
 # NNGU-PSYCHO-TEST
 
-nngu-psycho-test - скрипт, который автоматически проходит психологический тест ЕМ СПТ на сайте 52.armbos.ru[52.armbos.ru](https://52.armbos.ru)
+nngu-psycho-test - скрипт, который автоматически проходит психологический тест ЕМ СПТ на сайте [52.armbos.ru](https://52.armbos.ru)
 
 ## Состав репозитория
 
